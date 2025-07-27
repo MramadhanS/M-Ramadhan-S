@@ -1,45 +1,52 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=088F8F&center=true&vCenter=true&width=435&lines=Halo,+Saya+[Nama+Lengkap+Anda];Seorang+ML+Engineer;Pecinta+Data+Science;Siap+Berinovasi!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=088F8F&center=true&vCenter=true&width=435&lines=Halo,+Saya+M Ramadhan S;Artificial Intelligence;Machine Learning;Data Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nama-anda-linkedin-id" target="_blank">
+  <a href="www.linkedin.com/in/mramadhans" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:alamat.email@example.com">
+  <a href="mailto:ramadhansyaputra115@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://kaggle.com/nama-anda-kaggle" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   </p>
 
 ---
 
-### 🚀 Seputar Saya
+### 🚀 About Me
 
-Saya seorang **Machine Learning Engineer** yang bersemangat dalam mengubah data menjadi wawasan dan solusi prediktif. Dengan fokus pada [sebutkan area spesifik, misal: **Computer Vision** dan **Natural Language Processing**], saya senang membangun model yang tangguh dan dapat diterapkan di dunia nyata. Saya selalu mencari tantangan baru untuk menerapkan keterampilan saya dalam [spesifikasikan jenis proyek/industri, misal: pengembangan produk AI di sektor kesehatan atau fintech].
+I'm an **enthusiastic aspiring** in the fields of **Artificial Intelligence, Data Science, and Machine Learning**. Currently, I'm deeply immersed in learning and exploring the vast potential of data to build intelligent systems. I'm actively building my skills in Data Analyst, Machine Learning & Deep Learning Modelling, Computer Vision and NLP. My goal is to leverage data-driven insights to solve real-world problems and contribute to innovative AI solutions.
+
+Beyond my technical pursuits, I'm also a passionate **communicator** with proven **public speaking skills**. My experience as a **broadcaster, speaker, and MC** has honed my ability to articulate complex ideas clearly, engage diverse audiences, and present information effectively. I believe strong communication is key to bridging the gap between technical solutions and real-world impact.
 
 ---
 
-### 🛠️ Kumpulan Keahlian Saya
+### 🛠️ My Skillset
 
-Berikut adalah teknologi dan *framework* yang saya kuasai dan sering gunakan dalam proyek-proyek saya:
+Here are the technologies and tools I'm proficient with and frequently use in my projects:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word" />
+  
   </p>
+
 
 ---
 
