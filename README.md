@@ -54,27 +54,6 @@ Here are the technologies and tools I'm proficient with and frequently use in my
 
 Berikut adalah beberapa proyek **Machine Learning** terbaik saya yang menunjukkan kemampuan dan *passion* saya. Setiap proyek memiliki `README.md` yang detail di repositori masing-masing.
 
-#### 1. 👁️‍🗨️ Sistem Deteksi Objek Real-time (YOLOv7)
-* **Masalah:** Mengembangkan sistem deteksi objek berkinerja tinggi untuk aplikasi keamanan dan pengawasan.
-* **Solusi ML:** Melatih model **YOLOv7** dari awal pada dataset kustom berukuran besar. Mengoptimalkan *pipeline* inferensi untuk kinerja *real-time* di perangkat *edge*.
-* **Teknologi:** Python, PyTorch, YOLOv7, OpenCV, NVIDIA CUDA, Docker.
-* **Dampak/Hasil:** Mencapai **mAP 0.82** pada set pengujian dan mampu memproses **60 FPS** pada GPU tunggal.
-* **Pembelajaran:** Pengalaman mendalam dalam *data annotation*, *model fine-tuning*, dan optimisasi deployment untuk inferensi cepat.
-* **Repositori:** [Lihat Proyek Ini di GitHub](https://github.com/namapengguna/nama-repo-proyek-yolov7)
-* _Jika ada GIF atau video singkat demo, link bisa di sini._
-    `![Demo YOLOv7](https://via.placeholder.com/600x300.gif?text=Demo+YOLOv7+Anda)`
-
-#### 2. 🧠 Chatbot Asisten Medis Berbasis LLM
-* **Masalah:** Membuat asisten virtual yang dapat memberikan informasi medis dasar dan menjawab pertanyaan pasien secara akurat.
-* **Solusi ML:** Memanfaatkan **Large Language Model (LLM)** yang telah dilatih sebelumnya (** fine-tuned** dengan dataset medis spesifik. Mengimplementasikan mekanisme *retrieval-augmented generation (RAG)* untuk akurasi informasi.
-* **Teknologi:** Python, Hugging Face Transformers, LangChain, FAISS, Streamlit.
-* **Dampak/Hasil:** Chatbot berhasil memberikan jawaban yang relevan dan informatif, dengan **akurasi respons 88%** dalam evaluasi internal.
-* **Pembelajaran:** Kompleksitas *fine-tuning* LLM, strategi penanganan *hallucination*, dan pentingnya data berkualitas tinggi untuk *domain-specific applications*.
-* **Repositori:** [Lihat Proyek Ini di GitHub](https://github.com/namapengguna/nama-repo-proyek-chatbot-medis)
-* **Demo Online:** [Akses Demo Chatbot di Streamlit Cloud](https://namapengguna.streamlit.app/nama-aplikasi-chatbot)
-
----
-
 ### 📈 Statistik GitHub Saya
 
 <p align="center">
@@ -91,18 +70,6 @@ _**Catatan:** Ganti `namapengguna` di URL gambar di atas dengan nama pengguna Gi
 
 ### 📌 Repositori Pilihan Lainnya
 
-Ini adalah beberapa repositori lain yang saya pin, menunjukkan variasi proyek atau kontribusi saya. Silakan jelajahi untuk melihat lebih banyak pekerjaan saya!
-
-- **[nama-repo-1-yang-di-pin]**: Deskripsi singkat proyek ini, misal: "Eksplorasi data dan analisis performa model."
-- **[nama-repo-2-yang-di-pin]**: Deskripsi singkat proyek ini, misal: "Implementasi algoritma ML dari scratch."
-- **[nama-repo-3-yang-di-pin]**: Deskripsi singkat proyek ini, misal: "Kontribusi ke proyek open-source tertentu."
-_**Cara melakukan "Pin Repositori":**_
-1.  _Pergi ke halaman profil GitHub utama Anda (bukan halaman repositori ini)._
-2.  _Di bawah bagian "Popular repositories" atau "Repositories", Anda akan melihat opsi "Customize your pins"._
-3.  _Pilih hingga 6 repositori yang ingin Anda tampilkan sebagai pin. Repositori yang Anda pin akan secara otomatis muncul di halaman profil utama GitHub Anda._
-4.  _Untuk menampilkan **pin yang sama** di `README.md` ini, Anda bisa menggunakan action GitHub seperti `yatharth/pinned-repos` atau sejenisnya. Namun, cara yang paling langsung adalah **menambahkan secara manual** *link* dan deskripsi singkatnya seperti contoh di atas, karena fitur "pinned-repos" ini lebih untuk profil utama, bukan `README.md` repositori ini secara spesifik._
-
----
 
 ### 💖 Terhubung & Mari Berkolaborasi!
 
